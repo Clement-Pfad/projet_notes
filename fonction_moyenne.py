@@ -11,10 +11,9 @@ notes = {
 }
 
 # 1.3. Affichage des notes de chaque etudiant a l'aide d'une boucle
-print("--- 1.3. NOTES DE CHAQUE ETUDIANT ---")
+print("1.3. NOTES DE CHAQUE ETUDIANT")
 for prenom in etudiants:
     print(f"{prenom} : {notes[prenom][0]}, {notes[prenom][1]}, {notes[prenom][2]}")
-
 
 
 # 2.1. Fonction pour calculer la moyenne d'une liste de notes
