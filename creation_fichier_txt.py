@@ -110,7 +110,7 @@ for ment, count in repartition.items():
     print(f"- {ment} : {count} étudiant(s)")
 print("\n" + "\n")
 
-#4. creation du fichier "resultat.txt"
+# 4. creation du fichier "resultat.txt"
 def enregistrer_resultats(nom_fichier):
     """Enregistre tous les résultats de la classe dans un fichier texte."""
     with open(nom_fichier, "w", encoding="utf-8") as f:
