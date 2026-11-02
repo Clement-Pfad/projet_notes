@@ -1,5 +1,4 @@
-def creer_readme():
-    contenu_readme = """# 📊 Gestionnaire de Notes et Analyse de Classe
+📊 Gestionnaire de Notes et Analyse de Classe
 
 Un script en Python simple et modulaire permettant de gérer les notes d'étudiants, de calculer des moyennes, d'attribuer des mentions, d'analyser les performances globales d'une classe et de sauvegarder les résultats dans un fichier texte.
 
